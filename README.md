@@ -6,13 +6,13 @@ This is a simple implementation of the classic Tic Tac Toe game using Python and
 ## Screenshots
 
 ### Starting Screen
-![Starting Screen](screenshots/starting_screen.png)
+![Starting Screen](https://github.com/KumuthuA/TicTacToe/blob/master/images/screenshots/starting_screen.png)
 
 ### Win Screen
-![Win Screen](screenshots/win_screen.png)
+![Win Screen](https://github.com/KumuthuA/TicTacToe/blob/master/images/screenshots/win_screen.png)
 
 ### Draw Screen
-![Draw Screen](screenshots/draw_screen.png)
+![Draw Screen](https://github.com/KumuthuA/TicTacToe/blob/master/images/screenshots/draw_screen.png)
 
 ## Requirements
 - Python
@@ -20,4 +20,4 @@ This is a simple implementation of the classic Tic Tac Toe game using Python and
 
 ### Credits
 This game was created by Kumuthu Athukorala.
-Images and sounds used in the game are sourced from [\[image sources\]](https://www.freepik.com) and [\[sound sources\]](https://pixabay.com/sound-effects/search/game%20over/).
+Images and sounds used in the game are sourced from [freepik.com](https://www.freepik.com) and [pixabay.com](https://pixabay.com).
